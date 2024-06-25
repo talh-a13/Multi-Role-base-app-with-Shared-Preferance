@@ -1,16 +1,22 @@
-# flutter_application_multi_role_baseapp_sharedpreferance
+<h3 align="center">Multi Role Based App</h3>
+<h4 align="center">Welcome to the Multi Role Based App!</h4> 
+This application provides a robust platform for managing different user roles (Teacher, Student, and Admin) with functionalities for login, logout, and session management using Flutter and Shared Preferences.
 
-A new Flutter project.
+## Features
+Login and Logout: Secure login and logout mechanisms for each user role.
+- **Role-Based Access**:Supports multiple roles including Teacher, Student, and Admin, each with specific functionalities and access levels.
+- **Session Management**: Efficient session handling to maintain user login states and data persistence across app restarts using Shared Preferences..
+- **Login and Logout**: Secure login and logout mechanisms for each user role.
 
-## Getting Started
+## How to Contribute
 
-This project is a starting point for a Flutter application.
+We welcome contributions from the community to enhance the features and functionality of this login animation project. If you're interested in contributing, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Fork the repository to your GitHub account.
+2. Make your desired changes and improvements to the project.
+3. Test your changes thoroughly to ensure they work as intended.
+4. Submit a pull request to the main repository, detailing the changes you've made and any relevant information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Credits
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was developed by Talha Hussain ( _talhadev ).
